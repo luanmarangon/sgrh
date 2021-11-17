@@ -10,7 +10,7 @@ $this->Form->templates(['dateWidget' => '{{day}}{{month}}{{year}}']);
 <h1 style="text-align: center;"> Sistema de Gerenciamento de Recursos Humanos</h1>
 
 <div class="large-12 medium-6 columns">
-    <h3 style="text-align: center;"> Colaboradores</h1>
+    <h3 style="text-align: center;"> Colaboradores!</h1>
         <br>
         <div class="large-3 medium-3 columns" style="text-align-last: center;">
             <h1><?php if (!empty($funcionarios)) : ?>
